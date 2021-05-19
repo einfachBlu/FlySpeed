@@ -1,0 +1,9 @@
+name: FlySpeed
+main: de.blu.flyspeed.FlySpeed
+version: 1.0.0
+author: Blu
+commands:
+  flyspeed:
+    aliases:
+      - speed
+    permission: command.flyspeed
